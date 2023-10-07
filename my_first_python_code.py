@@ -1072,7 +1072,7 @@
 # print(is_my_first_function(password))
 
 # функция определяет является ли число простым или нет.
-# функция определяет является ли число простым или нет.
+
 def is_prime_next(num):
     counter = 0
     for i in range(1, num + 1):
